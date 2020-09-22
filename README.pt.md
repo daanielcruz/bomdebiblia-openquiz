@@ -28,7 +28,7 @@ Depois de 4 meses de estudo do zero, eu publiquei meu primeiro aplicativo na Pla
 Neste aplicativo eu optei pela metodologia "offline first": Se o usuário tiver conexão a internet, é checado novas questões/categorias acessando o "firebase realtime database",
 para checar por atualizações no código, é usado o CodePush, e para persistir dados offline é usado o RealmDB.
 
-<strong>\* Apenas para android, 'pois não tenho um mac :(</strong>
+<strong>* Apenas para android, 'pois não tenho um mac :(</strong>
 
 Se você quiser ver mais sobre, visite-o na [Play Store][playstore].
 
