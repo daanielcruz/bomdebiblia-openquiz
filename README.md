@@ -83,7 +83,7 @@ $ yarn android
 - Push them to your branch: `git push origin my-feature`.
 - Create a PR. 
 
-After reviewed and merged, you'll receive a message. Then you can delete your branch.
+After reviewed and merged, you'll receive a message. Then you can delete your whole fork.
 
 Made with ♥ by Daniel Cruz :wave: [Get in touch!](https://www.linkedin.com/in/danielfercruz/)
 
