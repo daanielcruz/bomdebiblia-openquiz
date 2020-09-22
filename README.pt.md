@@ -28,7 +28,7 @@ Depois de 4 meses de estudo do zero, eu publiquei meu primeiro aplicativo na Pla
 Neste aplicativo eu optei pela metodologia "offline first": Se o usuário tiver conexão a internet, é checado novas questões/categorias acessando o "firebase realtime database",
 para checar por atualizações no código, é usado o CodePush, e para persistir dados offline é usado o RealmDB.
 
-<strong>\* Apenas para android, 'pois não tenho um mac :(</strong>
+<strong>* Somente para android</strong>
 
 Se você quiser ver mais sobre, visite-o na [Play Store][playstore].
 
@@ -56,29 +56,26 @@ Em sua linha de comando:
 
 ### Simple install
 
-bash
 
-# Clone este repositório
-
-\$ git clone https://github.com/daanielcruz/bomdebiblia-openquiz
+```bash
+# Clone o repositório
+$ git clone https://github.com/daanielcruz/bomdebiblia-openquiz
 
 # Entre no diretório
+$ cd bomdebiblia-openquiz
 
-\$ cd bomdebiblia-openquiz
+# Instale as dependências
+$ yarn install
 
-# Instale as dependencias
-
-\$ yarn install
-
-# Inicie
-
-\$ yarn start
+# Inicie o servidor
+$ yarn start
 
 # Inicie o Android
+$ yarn android
 
-\$ yarn android
+# O projeto deverá ser aberto.
+```
 
-# O projeto será aberto.
 
 ## 🤔 Como contribuir
 
