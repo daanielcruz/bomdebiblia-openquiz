@@ -6,13 +6,11 @@ Bom de Bíblia - Open Quiz :exclamation::question:
 <a href="https://www.linkedin.com/in/danielfercruz/">
 <img alt="Made by daanielcruz" src="https://img.shields.io/badge/made%20by-daanielcruz-%23282C34?style=flat-square">
 </a>
-  
+
 <img alt="language" src="https://img.shields.io/badge/Language-pt_BR-%23282C34.svg?style=flat-square">
 <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=007bcd">
 <img alt="react-native" src="https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react">
 
-
-  
 </p>
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -31,7 +29,8 @@ In this project I opted for the offline first methodology: if the user has no in
 
 <strong>* Android Only </strong>
 
-If you want to know more about it, visit the play store link: https://play.google.com/store/apps/details?id=com.danielfcruz.bomdebiblia
+If you want to know more about it, visit the [Play Store][playstore]
+
 </p>
 
 ## 🔧 Technologies
@@ -51,7 +50,7 @@ The project was developed using the following technologies:
 
 ## ❓ How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] e [Yarn].
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] and [Yarn].
 From your command line:
 
 ### Simple install
@@ -81,7 +80,7 @@ $ yarn android
 - Create a branck with your feature: `git checkout -b my-feature`;
 - Commit changes: `git commit -m 'feat: My new feature'`;
 - Push them to your branch: `git push origin my-feature`.
-- Create a PR. 
+- Create a PR.
 
 After reviewed and merged, you'll receive a message. Then you can delete your whole fork.
 
@@ -103,3 +102,4 @@ Made with ♥ by Daniel Cruz :wave: [Get in touch!](https://www.linkedin.com/in/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+[playstore]: https://play.google.com/store/apps/details?id=com.danielfcruz.bomdebiblia
