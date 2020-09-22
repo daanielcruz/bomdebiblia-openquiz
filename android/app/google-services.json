@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "975001261181",
+    "firebase_url": "https://openquiz-public.firebaseio.com",
+    "project_id": "openquiz-public",
+    "storage_bucket": "openquiz-public.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975001261181:android:8da2c675b1638a1a3a8d14",
+        "android_client_info": {
+          "package_name": "com.openquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975001261181-3t6efa9l0t1vbuc8u9qgvb9aj5113vsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQSUuFhI1AGyFYR5NGrEaFXNWQNjxM93w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975001261181-3t6efa9l0t1vbuc8u9qgvb9aj5113vsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
