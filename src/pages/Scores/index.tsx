@@ -117,9 +117,7 @@ const Scores = () => {
       </ScrollContainer>
       <BannerBox>
         <BannerAd
-          unitId={
-            __DEV__ ? TestIds.BANNER : 'ca-app-pub-3225482665002252/5341232140'
-          }
+          unitId={TestIds.BANNER}
           size={BannerAdSize.BANNER}
           requestOptions={{
             requestNonPersonalizedAdsOnly: false,
