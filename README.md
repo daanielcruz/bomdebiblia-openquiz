@@ -27,7 +27,7 @@ Bom de Bíblia - Open Quiz :exclamation::question:
 After 4 months of study from scratch, I've finally published my very first app on Play Store: a bible quiz app.
 In this project I opted for the offline first methodology: if the user has no internet connection, the app will check for questions/categories updates using firebase realtime database, using CodePush and, to keep offline data, RealmDB.
 
-<strong>\* Android Only </strong>
+<strong>* Android Only </strong>
 
 If you want to know more about it, visit the [Play Store][playstore]
 
