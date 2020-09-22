@@ -4,11 +4,13 @@ Bom de Bíblia - Open Quiz :exclamation::question:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/danielfercruz/">
-<img alt="Made by daanielcruz" src="https://img.shields.io/badge/made%20by-daanielcruz-%23282C34">
+<img alt="Made by daanielcruz" src="https://img.shields.io/badge/made%20by-daanielcruz-%23282C34?style=flat-square">
 </a>
 
-<img alt="Made by daanielcruz" src="https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=007bcd">
-<img alt="Made by daanielcruz" src="https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react">
+<img alt="typescript" src="https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=007bcd">
+<img alt="react-native" src="https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react">
+<img alt="language" src="https://img.shields.io/badge/Language-pt_BR-%23282C34.svg?style=flat-square">
+
   
 </p>
 <p align="center">
