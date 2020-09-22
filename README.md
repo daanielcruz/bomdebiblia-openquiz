@@ -29,7 +29,7 @@ In this project I opted for the offline first methodology: if the user has no in
 
 <strong>\* Android Only </strong>
 
-If you want to know more about it, visit the play store link: https://play.google.com/store/apps/details?id=com.danielfcruz.bomdebiblia
+If you want to know more about it, visit the [Play Store][playstore]
 
 </p>
 
@@ -102,3 +102,4 @@ Made with ♥ by Daniel Cruz :wave: [Get in touch!](https://www.linkedin.com/in/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+[playstore]: https://play.google.com/store/apps/details?id=com.danielfcruz.bomdebiblia
