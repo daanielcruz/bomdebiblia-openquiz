@@ -56,29 +56,26 @@ Em sua linha de comando:
 
 ### Simple install
 
-bash
 
-# Clone este repositório
-
-\$ git clone https://github.com/daanielcruz/bomdebiblia-openquiz
+```bash
+# Clone o repositório
+$ git clone https://github.com/daanielcruz/bomdebiblia-openquiz
 
 # Entre no diretório
+$ cd bomdebiblia-openquiz
 
-\$ cd bomdebiblia-openquiz
+# Instale as dependências
+$ yarn install
 
-# Instale as dependencias
-
-\$ yarn install
-
-# Inicie
-
-\$ yarn start
+# Inicie o servidor
+$ yarn start
 
 # Inicie o Android
+$ yarn android
 
-\$ yarn android
+# O projeto deverá ser aberto.
+```
 
-# O projeto será aberto.
 
 ## 🤔 Como contribuir
 
