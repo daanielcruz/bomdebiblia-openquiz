@@ -26,19 +26,17 @@ Bom de Bíblia - Open Quiz :exclamation::question:
 <p align="center">
  <img alt="sample" title="sample" src=".github/screen.png" width="800px" />
 
-After 4 months of study from scratch, I published my first app on the Play Store and now I publish the open source. 
-This project is a bible quiz app, in this app I opted for the offline first methodology, 
-if the user has internet connection the app check for questions/categories updates using firebase realtime database, 
-to check for code updates uses CodePush and to persist offline data I used RealmDB.
+After 4 months of study from scratch, I've finally published my very first app on Play Store: a bible quiz app.
+In this project I opted for the offline first methodology: if the user has no internet connection, the app will check for questions/categories updates using firebase realtime database, using CodePush and, to keep offline data, RealmDB.
 
-<strong>* Only for Android, 'cause i haven't a mac :(</strong>
+<strong>* Android Only </strong>
 
-If u want to know more about visit the playstore link: https://play.google.com/store/apps/details?id=com.danielfcruz.bomdebiblia
+If you want to know more about it, visit the play store link: https://play.google.com/store/apps/details?id=com.danielfcruz.bomdebiblia
 </p>
 
 ## 🔧 Some Technologies
 
-This project was developed with the following technologies:
+The project was developed using the following technologies:
 
 - [React-Native][react-native]
 - [TypeScript][typescript]
@@ -79,12 +77,13 @@ $ yarn android
 
 ## 🤔 How to contribute
 
-- Make a fork;
+- Fork the project;
 - Create a branck with your feature: `git checkout -b my-feature`;
 - Commit changes: `git commit -m 'feat: My new feature'`;
-- Make a push to your branch: `git push origin my-feature`.
+- Push them to your branch: `git push origin my-feature`.
+- Create a PR. 
 
-After merging your receipt request to done, you can delete a branch from yours.
+After reviewed and merged, you'll receive a message. Then you can delete your branch.
 
 Made with ♥ by Daniel Cruz :wave: [Get in touch!](https://www.linkedin.com/in/danielfercruz/)
 
