@@ -34,7 +34,7 @@ In this project I opted for the offline first methodology: if the user has no in
 If you want to know more about it, visit the play store link: https://play.google.com/store/apps/details?id=com.danielfcruz.bomdebiblia
 </p>
 
-## 🔧 Some Technologies
+## 🔧 Technologies
 
 The project was developed using the following technologies:
 
